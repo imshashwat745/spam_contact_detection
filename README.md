@@ -1,4 +1,4 @@
-Instahyre Coding Task
+
 A Django backend for a spam detection application
 
 ================================================
